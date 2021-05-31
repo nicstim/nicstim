@@ -1,3 +1,4 @@
+<img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tabulaweb&repo=nicstim&countColorcountColor&countColor=%237B1E7A">    
 [![picture](src/249944.jpg)](https://t.me/nicstim) Back-end developer
 
 ### Languages and tools
