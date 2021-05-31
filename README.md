@@ -1,6 +1,9 @@
 <img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tabulaweb&repo=nicstim&countColorcountColor&countColor=%237B1E7A">    
-[![picture](src/249944.jpg)](https://t.me/nicstim) Back-end developer
+<a href="https://t.me/nicstim">
+<img src="src/249944.jpg">
+</a>
 
+    
 ### Languages and tools
 
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
